@@ -9,23 +9,14 @@ engineering, and high quality software.
 <p align="left">
 
 **Languages**
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-</a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="PostgreSQL" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50" alt="GNU Bash" />
-</a>
-<a href="https://www.haskell.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="50" height="50" alt="GNU Bash" />
-</a>
-<br /> <br /> 
+<div align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" height="50"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" height="50"/>
+    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQL" height="50"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash" height="50"/>
+    <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white" alt="Haskell" height="50"/>
+</div>
+<br />
 
 **Frameworks and Tools**
 
